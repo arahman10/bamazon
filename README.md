@@ -24,7 +24,4 @@ The customer made a successful purchase.
 * Node
 * mySQL
 
-
-### Contributers
-
-* Rachel Parris
+--Ashiqur Rahman
